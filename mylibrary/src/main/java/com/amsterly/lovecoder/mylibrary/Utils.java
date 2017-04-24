@@ -5,5 +5,5 @@ package com.amsterly.lovecoder.mylibrary;
  */
 
 public class Utils {
-    public String name;
+    public String name="A";
 }
